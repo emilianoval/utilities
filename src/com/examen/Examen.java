@@ -1,5 +1,7 @@
 package com.examen;
-
+/**
+ * Clase que ejecuta los procesos para el examen de aserttify
+ */
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
